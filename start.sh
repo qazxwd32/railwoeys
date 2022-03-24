@@ -2,7 +2,7 @@
 
 # configs
 AUUID=974ddc09-57d4-4db4-b137-feeef86e9bf7
-CADDYIndexPage=https://github.com/vvv1/saide/raw/main/3D.zip
+CADDYIndexPage=https://github.com/qazxwd32/wezwz/raw/main/WebGL-Fluid-Simulation-master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/qazxwd32/ralwoeys/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/qazxwd32/ralwoeys/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
